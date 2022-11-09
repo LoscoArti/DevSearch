@@ -6,6 +6,28 @@ __pycache__
 db.sqlite3
 media
 
+# File types #
+##############
+*.pyc
+*.swo
+*.swp
+*.swn
+
+# Directories #
+###############
+logs/
+
+# Specific files #
+##################
+devsearch/settings.py
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+
 # Backup files # 
 *.bak 
 
